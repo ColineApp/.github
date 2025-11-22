@@ -1,27 +1,23 @@
-# Boxia
+# Coline
 
-We're building the productivity platform we always wished existed.
+The All in One Productivity Platform of Vancouver.
 
 ## What We Do
 
-All-in-one workspace for notes, tasks, calendar, files, email, and more. Everything connects. Everything's powered by AI that actually makes you faster. No more juggling twelve apps just to get through your day.
+Coline brings notes, tasks, calendar, files, email, and more into one connected space. Everything works together. Everything is supported by thoughtful AI that helps you move through your day with less friction and more clarity.
 
-## Why We're Here
+## Why We Exist
 
-We got tired of clunky productivity tools that got in the way instead of helping. So we built something different. Fast, polished, AI-first. Tools that amplify your thinking instead of cluttering it.
+We wanted a workspace that felt simple, smooth, and genuinely helpful. Something that stayed out of the way and made room for real focus. Since we could not find it, we started building it.
 
-Our AI agent Kairo lives across every surface and helps you actually get stuff done. Boxia Tab predicts what you need next in under 100ms. Your work becomes a living knowledge graph that gets smarter over time.
+Kairo, our AI agent, is there to support you wherever you are in the platform. Coline Tab suggests what you might need next within a blink. Your work grows into a knowledge graph that becomes more helpful the more you use it.
 
-## Philosophy
+## How We Build
 
-Ship fast. Iterate faster. Care about craft. Make work feel human.
+Take care with the details. Move with purpose. Keep things human. Create tools that feel good to use.
 
 ## Join Us
 
-We're a small team building the future of work. If you care about making tools that actually help people, talk to us.
+We are a small team building something we truly believe in. If you care about thoughtful design and meaningful tools, we would love to hear from you.
 
-careers@boxia.io | [boxia.io](https://boxia.io)
-
----
-
-Built with intention.
+careers@coline.app | [coline.app](https://coline.app)
